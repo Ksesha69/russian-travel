@@ -1,0 +1,9 @@
+.header__lang-link_ru {
+    text-decoration: underline;
+    transition: opacity 0.2s;
+    margin: 0;
+}
+
+.header__lang-link_ru:hover {
+    opacity: 0.5;
+}

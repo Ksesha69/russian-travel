@@ -1,7 +1,7 @@
 .place {
     min-width: 928px;
     min-height: 564px;
-    margin: 92px 48px 80px;
+    margin: 0 48px 80px;
     display: grid;
     grid-template-areas:
         "title website"
@@ -13,7 +13,7 @@
     .place {
         min-width: 720px;
         min-height: 581px;
-        margin: 88px 24px 73px;
+        margin: 0 24px 73px;
         column-gap: 28px;
     }
 }

@@ -12,16 +12,10 @@
     justify-content: end;
     gap: 0 18px;
     color: #FFFFFF;
-    text-decoration: underline;
-    transition: opacity 0.2s;
 }
 
 .header__lang-link:last-child {
     text-decoration: none;
-}
-
-.header__lang-link:hover {
-    opacity: 0.5;
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {

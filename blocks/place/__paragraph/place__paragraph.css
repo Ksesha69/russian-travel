@@ -1,4 +1,4 @@
-.place__text_paragraph {
+.place__paragraph {
     margin: 0;
     min-width: 456px;
     min-height: 174px;
@@ -11,7 +11,7 @@
     
 }
 
-.place__text_paragraph:last-child {
+.place__paragraph:last-child {
     min-width: 456px;
     min-height: 232px;
     margin-top: 27px;
