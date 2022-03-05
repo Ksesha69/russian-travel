@@ -1,6 +1,3 @@
-div , p , img , section {
-    border: 1px red solid;
-}
 .root {
     min-width: 1024px;
     max-width: 1280px;
