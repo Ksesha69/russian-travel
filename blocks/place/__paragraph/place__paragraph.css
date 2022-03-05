@@ -18,13 +18,13 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1024px) {
-    .place__text_paragraph {
+    .place__paragraph {
         min-width: 352px;
         min-height: 182px;
         font-size: 16px;
         line-height: 163%;
     }
-    .place__text_paragraph:last-child {
+    .place__paragraph:last-child {
         min-width: 352px;
         min-height: 234px;
         margin-top: 25px;
@@ -32,18 +32,18 @@
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
-    .place__text_paragraph {
+    .place__paragraph {
         min-width: 288px;
         min-height: 208px;
     }
-    .place__text_paragraph:last-child {
+    .place__paragraph:last-child {
         min-width: 288px;
         min-height: 312px;
     }
 }
 
 @media screen and (min-width: 1280px) {
-    .place__text_paragraph {
+    .place__paragraph {
         min-width: 484px;
         min-height: 145px;
     }

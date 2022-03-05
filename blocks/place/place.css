@@ -31,6 +31,6 @@
 @media screen and (min-width: 1280px) {
     .place {
         min-width: 984px;
-        margin: 0 148px;
+        margin: 80px 148px 0;
     }
 }
